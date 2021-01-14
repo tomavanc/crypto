@@ -1,0 +1,1 @@
+Discord bot to fetch cryptocurrency info from CoinMarketCap with 24h scheduler
